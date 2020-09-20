@@ -40,7 +40,7 @@ let s:bgdark    = g:dracula#palette.bgdark
 let s:bgdarker  = g:dracula#palette.bgdarker
 
 let s:comment   = g:dracula#palette.comment
-let s:selection = g:dracula#palette.selection
+let s:selection = g:dracula#palette.purple
 let s:subtle    = g:dracula#palette.subtle
 
 let s:cyan      = g:dracula#palette.cyan
